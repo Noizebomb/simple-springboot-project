@@ -8,4 +8,4 @@ Simplest Spring Boot Hello World Example
 
 > Run from your favourite IDE ( Eclipse , IntelliJ , Netbeans )
 
-ENJOY THE POWER OF A HELLO WORLD ! Welcome to Spring Boot :)
+ENJOY READING WHAT I HAVE LEARNED SO FAR
